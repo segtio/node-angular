@@ -115,10 +115,10 @@ Run `yarn e2e` to execute the end-to-end tests via [Protractor](http://www.protr
 
 [docker-badge]: https://c7.uihere.com/icons/424/905/308/docker-logo-media-social-icon-11643f08ed30aa3544e857cc6b477212.png
 [docker]: https://www.docker.com
-[build-badge]: https://travis-ci.org/comitlab/quizz-app.svg?branch=master
-[build]: https://travis-ci.org/comitlab/quizz-app
-[coverage-badge]: https://codecov.io/gh/comitlab/quizz-app/branch/master/graph/badge.svg
-[coverage]: https://codecov.io/gh/comitlab/quizz-app
+[build-badge]: https://travis-ci.org/segtio/node-angular.svg?branch=master
+[build]: https://travis-ci.org/segtio/node-angular
+[coverage-badge]: https://codecov.io/gh/segtio/node-angular/branch/master/graph/badge.svg
+[coverage]: https://codecov.io/gh/segtio/node-angular
 [node]: http://nodejs.org/
 [angular-cli]: https://github.com/angular/angular-cli
 [mongo-db]: https://www.mongodb.com/download-center
