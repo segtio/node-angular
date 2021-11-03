@@ -101,7 +101,7 @@
     "trim-request": "^1.0.6",
     "tslib": "^1.10.0",
     "uuid": "^3.3.2",
-    "validator": "^11.0.0",
+    "validator": "^13.7.0",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^4.4.0",
     "zone.js": "~0.9.1"
